@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1602449931 source:e:\rashed\summer-2020-uiu\csi 422 computer graphics laboratory\w8\space\main.cpp
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<glut.h>
+	<math.h>
+	<string.h>
+
+1392007564 e:\rashed\summer-2020-uiu\csi 422 computer graphics laboratory\w8\space\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1602497783 source:e:\rashed\summer-2020-uiu\csi 422 computer graphics laboratory\w8\spacev2\main.cpp
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<glut.h>
+	<math.h>
+	<string.h>
+
+1392007564 e:\rashed\summer-2020-uiu\csi 422 computer graphics laboratory\w8\spacev2\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1661937439 source:d:\for cv\spacev2\main.cpp
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<glut.h>
+	<math.h>
+	<string.h>
+
+1392007564 d:\for cv\spacev2\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
